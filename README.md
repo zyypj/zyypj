@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá! Sou o Samuel Henrique, tenho 17 anos e sou natural de Goiás. Estou concluindo o Ensino Médio, tendo feito 2 anos de Curso Técnico em Informática. Desde criança me encanto com o mundo da programação, tenho vídeos postados de 2018 com apenas 11 anos programando em Java.
+Olá! Sou o Samuel Henrique, tenho 17 anos e sou natural de Goiás. Estou concluindo o Ensino Médio com Curso Técnico em Informática. Desde criança me encanto com o mundo da programação, tenho vídeos postados de 2018 com apenas 11 anos programando em Java.
 
 ---
 
@@ -39,11 +39,11 @@ align="left"
 
 <img 
 align="left"
-    alt="CPlusPlus"
-    title="C++"
+    alt="CSharp"
+    title="C#"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
  /> 
 
 <img 
