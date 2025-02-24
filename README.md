@@ -30,6 +30,15 @@ align="left"
 
 <img 
 align="left"
+    alt="KOTLIN"
+    title="Kotlin"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+ />   
+
+<img 
+align="left"
     alt="PYTHON"
     title="Python"
     width="30px"
