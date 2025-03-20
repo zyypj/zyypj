@@ -58,7 +58,7 @@ align="left"
 <img 
 align="left"
     alt="MYSQL"
-    title="MySQl"
+    title="MySQL"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
@@ -93,7 +93,7 @@ align="left"
     alt="Current Streak"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=zyypj&theme=transparent&hide=longest"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=zyypj&theme=default&bg_color=000000&title_color=800080&text_color=ffffff&icon_color=800080"
   />
 
   <img
@@ -101,7 +101,7 @@ align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=zyypj&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=zyypj&show_icons=true&theme=default&bg_color=000000&title_color=800080&text_color=ffffff&icon_color=800080&include_all_commits=true&locale=pt-br"
   />
 
   <img
@@ -109,6 +109,6 @@ align="left"
     alt="Top Langs"
     height="184"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyypj&layout=compact&theme=transparent&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyypj&layout=compact&theme=default&bg_color=000000&title_color=800080&text_color=ffffff&icon_color=800080&include_all_commits=true&locale=pt-br"
   />
 </p>
