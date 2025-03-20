@@ -90,6 +90,14 @@ align="left"
 <p>
   <img
     align="left"
+    alt="Current Streak"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=zyypj&theme=transparent&hide=longest"
+  />
+
+  <img
+    align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
@@ -102,12 +110,5 @@ align="left"
     height="184"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyypj&layout=compact&theme=transparent&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    align="left"
-    alt="Streak Stats"
-    height="200"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=zyypj&theme=transparent"
   />
 </p>
