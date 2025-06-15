@@ -2,13 +2,13 @@
 
 ---
 
-**`Desenvolvedor Back-End`**
+**`Back-End Developer`**
 
-Olá! Sou o Samuel Henrique, tenho 18 anos e sou natural de Goiás. Estou concluindo o Ensino Médio com Curso Técnico em Informática. Desde criança me encanto com o mundo da programação, tenho vídeos postados de 2017 programando em Java.
+Hello! I’m Samuel Henrique, I’m 18 years old and from Goiás. I’m completing my high school education with a Technical Course in Computer Science. I’ve been fascinated by the world of programming since I was a child, and I have videos posted since 2017 coding in Java.
 
 ---
 
-### 🤖 Linguagens & Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
 align="left"
@@ -58,7 +58,7 @@ align="left"
 <img 
 align="left"
     alt="MYSQL"
-    title="MySQl"
+    title="MySQL"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
@@ -85,7 +85,7 @@ align="left"
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img
