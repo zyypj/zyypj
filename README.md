@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá! Sou o Samuel Henrique, tenho 17 anos e sou natural de Goiás. Estou concluindo o Ensino Médio com Curso Técnico em Informática. Desde criança me encanto com o mundo da programação, tenho vídeos postados de 2017 programando em Java.
+Olá! Sou o Samuel Henrique, tenho 18 anos e sou natural de Goiás. Estou concluindo o Ensino Médio com Curso Técnico em Informática. Desde criança me encanto com o mundo da programação, tenho vídeos postados de 2017 programando em Java.
 
 ---
 
